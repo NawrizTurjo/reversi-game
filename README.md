@@ -234,10 +234,10 @@ function minimax(board, depth, alpha, beta, maximizingPlayer) {
 
 ## 👥 Contributing
 
-<div align="center">
-    <img src="https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" width="50px">
+<!-- <div align="center">
+    <img src="https://opensource.org/assets/osi-logo-83x150.png" width="50px">
     <p><em>Your contributions make this project better!</em></p>
-</div>
+</div> -->
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
