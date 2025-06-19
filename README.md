@@ -12,7 +12,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/yourusername/reversi-game/graphs/commit-activity)
 
 <div align="center">
-    <img src="public/screenshot.png" alt="Reversi Game Screenshot" width="600px" />
+    <img src="public/Screenshot.png" alt="Reversi Game Screenshot" width="600px" />
     <p><em>Experience the classic board game with a modern interface</em></p>
 </div>
 
